@@ -1,8 +1,14 @@
-- 👋 Hi, I’m William Xavier
-- 👀 I'm interested in learning more every day.
-- 🌱 I’m currently learning JavaScript, Git, Scrum, SQL, Python, C, Java, JavaScript, CSS
-- 💞️ I'm looking to work as
-- 📫 How to reach me www.linkedin.com/in/william-dos-santos-xavier-de-moraes-313abb66
+
+- ## 👋 Olá eu sou o William Xavier
+- 🌱 Tenho conhecimentos em: JavaScript, Git, Scrum, SQL, Python, C, Java, JavaScript, CSS
+- 💞️ Atualmente trabalho com Análise de Sistemas 
+- 📫 Contatos: www.linkedin.com/in/william-dos-santos-xavier-de-moraes-313abb66
+
+ <div>
+  <a href="https://github.com/willXavie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willxavie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willxavie&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <!---
