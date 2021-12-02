@@ -1,6 +1,6 @@
 
 - ## 👋 Olá eu sou o William Xavier
-- 🌱 Tenho conhecimentos em: JavaScript, Git, Scrum, SQL, Python, C, Java, JavaScript, CSS, HTML5
+- 🌱 Tenho conhecimentos em: JavaScript, Git, Scrum, SQL, Python, C#, Java, JavaScript, CSS, HTML5, Vue.js, VB6, Asp.
 - 💞️ Atualmente trabalho como Desenvolvedor de Software
 - 📫 Contatos: www.linkedin.com/in/william-dos-santos-xavier-de-moraes-313abb66
 
