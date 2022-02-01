@@ -39,7 +39,7 @@
     
 <br>
   
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=WillXavie&repo=WillXavie&theme=react)](https://github.com/WillXavie/WillXavie)
+
 
 <img alt="Cat" src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" />
 </div>
