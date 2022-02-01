@@ -1,6 +1,6 @@
 ### Hi, my name is William Xavier!
 ## Welcome to my GitHub profile.👋
-![Snake animation](https://github.com/Willxavie/Willxavie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Willxavie/WillXavie/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 - 💻 I’m currently working on Signa Consultoria
