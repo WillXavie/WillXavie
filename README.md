@@ -1,4 +1,5 @@
-<h1> Hi, my name is William Xavier! Welcome to my GitHub profile.👋</h1>
+<h1> Hi, my name is William Xavier! <br>
+ Welcome to my GitHub profile.👋</h1>
 
 
 ![Snake animation](https://github.com/willxavie/willxavie/blob/output/github-contribution-grid-snake.svg)
