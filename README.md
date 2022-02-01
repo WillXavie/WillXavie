@@ -1,17 +1,42 @@
+### Hi, my name is William Xavier!
+## Welcome to my GitHub profile.👋
+![Snake animation](https://github.com/William-Mota09/William-Mota09/blob/output/github-contribution-grid-snake.svg)
+<br>
 
-- ## 👋 Olá eu sou o William Xavier
-- 🌱 Tenho conhecimentos em: JavaScript, Git, Scrum, SQL, Python, C#, Java, JavaScript, CSS, HTML5, Vue.js, VB6, Asp.
-- 💞️ Atualmente trabalho como Desenvolvedor de Software
-- 📫 Contatos: www.linkedin.com/in/william-dos-santos-xavier-de-moraes-313abb66
-
- <div>
-  <a href="https://github.com/willXavie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willxavie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willxavie&layout=compact&langs_count=7&theme=dark"/>
+- 💻 I’m currently working on Signa Consultoria
+- ✏️ I’m currently learning HTML, CSS, JavaScript, SQL-Server, C#, .NET...
+<div>
+<div>
+<h3>Tools and technologies:</h3>
+<div style="display: inline-block">
+<img align="center" alt="William-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="William-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="William-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="William-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="William-DNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="center" alt="William-VCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" alt="William-VStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="center" alt="William-VUE" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="center" alt="William-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="center" alt="William-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="center" alt="William-Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img align="center" alt="William-SqlServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="center" alt="William-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+    
+<h3>Contacts:</h3>  
+<a href = "mailto:williamdsx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/william-dos-santos-xavier-de-moraes-313abb66/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/willxavie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br><br>
+  
+<a href="https://github.com/WillXavie">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Mota09&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Mota09&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
+  
 
 
-<!---
-WillXavie/WillXavie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img alt="Cat" src="https://c.tenor.com/rMxNr07CxSMAAAAC/cat-crazy-cat.gif" />
+</div>
