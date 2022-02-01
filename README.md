@@ -1,6 +1,6 @@
 ### Hi, my name is William Xavier!
 ## Welcome to my GitHub profile.👋
-![Snake animation](https://github.com/WillXavie/WillXavie/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willxavie/WillXavie/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 - 💻 I’m currently working on Signa Consultoria
@@ -30,9 +30,9 @@
 <a href="https://www.instagram.com/willxavie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br><br>
   
-<a href="https://github.com/WillXavie">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillXavie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillXavie&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/willxavie">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=willxavie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willxavie&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
   
