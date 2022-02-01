@@ -1,5 +1,6 @@
-### Hi, my name is William Xavier!
-## Welcome to my GitHub profile.👋
+<h1> Hi, my name is William Xavier! </h1>
+<h2> Welcome to my GitHub profile.👋 </h2>
+
 ![Snake animation](https://github.com/willxavie/willxavie/blob/output/github-contribution-grid-snake.svg)
 <br>
 
@@ -31,7 +32,8 @@
 <a href="https://www.instagram.com/willxavie/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
 <br><br>
-  
+ 
+<div>    
 <a href="https://github.com/willxavie">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willxavie&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willxavie&layout=compact&langs_count=7&theme=dracula"/>
